@@ -1,0 +1,4 @@
+Run in terminal:
+
+chmod +x Instant-ns3.30.1.sh
+./Instant-ns3.30.1.sh
